@@ -1,7 +1,5 @@
 manifest:
   remotes:
-    - name: klesh
-      url-base: https://github.com/klesh
     - name: theoneLYJ
       url-base: https://github.com/theoneLYJ
   projects:
